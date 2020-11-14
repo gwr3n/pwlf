@@ -1,0 +1,30 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.github.gwr3n</groupId>
+  <artifactId>pwlf</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>pwlf</name>
+  <description>Piecewise linearisation of the first-order loss function http://dx.doi.org/10.1016/j.amc.2014.01.019</description>
+  <dependencies>
+  	<dependency>
+  		<groupId>colt</groupId>
+  		<artifactId>colt</artifactId>
+  		<version>1.2.0</version>
+  	</dependency>
+  	<dependency>
+  		<groupId>org.jfree</groupId>
+  		<artifactId>jcommon</artifactId>
+  		<version>1.0.24</version>
+  	</dependency>
+  	<dependency>
+  		<groupId>ca.umontreal.iro.simul</groupId>
+  		<artifactId>ssj</artifactId>
+  		<version>3.1.0</version>
+  	</dependency>
+  	<dependency>
+  		<groupId>org.jfree</groupId>
+  		<artifactId>jfreechart</artifactId>
+  		<version>1.5.1</version>
+  	</dependency>
+  </dependencies>
+</project>
