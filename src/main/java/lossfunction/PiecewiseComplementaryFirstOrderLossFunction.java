@@ -1,5 +1,5 @@
 /**
- * pwlf: Piecewise Linearization of the First-Order Loss Function
+ * pwlf: Piecewise Linearization of Arbitrary First Order Loss Functions
  * 
  * MIT License
  * 
