@@ -38,6 +38,11 @@ import umontreal.ssj.probdist.UniformDist;
  * Applied Mathematics and Computation, Elsevier, Vol. 231:489-502, 2014
  * {@link http://dx.doi.org/10.1016/j.amc.2014.01.019}
  * 
+ * R. Rossi, E.M.T. Hendrix, 
+ * "Computing linearisation parameters of arbitrarily distributed first order loss functions", 
+ * in Proceedings of MAGO'14, XII Global Optimization Workshop (GOW)
+ * {@link https://gwr3n.github.io/chapters/Rossi_et_al_MAGO_2014_2.pdf}
+ * 
  * @author Roberto Rossi {@link https://gwr3n.github.io/}
  */
 
