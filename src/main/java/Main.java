@@ -61,11 +61,6 @@ public class Main {
       
       RSCycleLinearizationParameters parameters = new RSCycleLinearizationParameters(distributions, seed, nbSamples, population, partitions);
       
-      /** 
-       * 
-       * 
-       * 
-       */
       System.out.println();
       System.out.println(parameters.getProbabilityMassesTable()); // These are the p_i in the paper
       System.out.println();
