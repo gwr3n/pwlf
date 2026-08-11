@@ -20,4 +20,15 @@ https://gwr3n.github.io/chapters/Rossi_et_al_MAGO_2014_2.pdf
  
 to piecewise linearise arbitrary loss functions. 
 
-pwlf is maintained by Roberto Rossi, Full Professor at the University of Edinburgh.
+pwlf is maintained by Roberto Rossi
+
+=====================================================================
+NOTES (2026-08-11)
+=====================================================================
+
+This repo is retained for historical purposes. 
+The latest version of pwlf (in Python) is now maintained at:
+https://github.com/gwr3n/folf
+
+For the latest java implementation of pwlf, please refer to:
+https://github.com/gwr3n/skp/tree/main/src/main/java/skp/folf
